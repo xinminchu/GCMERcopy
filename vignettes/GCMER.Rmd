@@ -1,0 +1,28 @@
+---
+title: "GCMER"
+author: "David Degras-Valabregue, Xinmin Chu"
+date: "6/21/2024"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Graph Coloring Method for Entity Resolution
+
+This R package provides general functions for graph coloring as well as specific functions for entity resolution, aka data deduplication.
+
+```{r fun, echo=FALSE}
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
