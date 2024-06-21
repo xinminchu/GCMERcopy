@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1718942525239.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2677596205",
+    "id" : "D9383A34",
+    "lastKnownWriteTime" : 1718854533,
+    "last_content_update" : 1718854533,
+    "path" : "~/GCMER/R/clustering_measures.R",
+    "project_path" : "R/clustering_measures.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1718942517431.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3604698384",
+    "id" : "1691CC43",
+    "lastKnownWriteTime" : 1718854533,
+    "last_content_update" : 1718854533,
+    "path" : "~/GCMER/R/graph_coloring.R",
+    "project_path" : "R/graph_coloring.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

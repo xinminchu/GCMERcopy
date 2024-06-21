@@ -1,0 +1,92 @@
+[
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/Header/coloring_algorithm.hpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/Header/dsatur.hpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/Header/hybrid_dsatur.hpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/Header/hybrid_lmxrlf.hpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/Header/lmxrlf.hpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/Header/mcs.hpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/Header/tabucol.hpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/coloring_algorithm.cpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/dsatur.cpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/graph_coloring.cpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/hybrid_dsatur.cpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/hybrid_lmxrlf.cpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/lmxrlf.cpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/mcs.cpp",
+        "file_last_write" : 1718767564
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/xiadong/GCMER/src/tabucol.cpp",
+        "file_last_write" : 1718767564
+    }
+]

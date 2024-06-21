@@ -1,0 +1,16 @@
+{
+    "args" : [
+        "-I/Applications/RStudio.app/Contents/Resources/resources/libclang/builtin-headers/3.5",
+        "-I/Applications/RStudio.app/Contents/Resources/resources/libclang/builtin-headers/libc++/3.5",
+        "-I/Users/xiadong/Library/R/x86_64/4.2/library/Rcpp/include",
+        "-std=gnu++11",
+        "-I/Library/Frameworks/R.framework/Resources/include",
+        "-DNDEBUG",
+        "-I/usr/local/include",
+        "-IGraphColoring",
+        "-fPIC"
+    ],
+    "hash" : "171885701717187675641718767564",
+    "is_cpp" : true,
+    "pch" : "Rcpp"
+}
